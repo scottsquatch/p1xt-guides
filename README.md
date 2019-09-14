@@ -66,10 +66,10 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 | Courses                                                       | Status | Evidence |
 | :------------------------------------------------------------ | :----: | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         |        |
-| [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |
-| [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |
-| [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |
+| [Algebra I](https://www.khanacademy.org/math/algebra)         | Skip | College Course
+| [Algebra II](https://www.khanacademy.org/math/algebra2)       | Skip | College Course
+| [Trigonometry](https://www.khanacademy.org/math/trigonometry) | Skip | College Course
+| [Precalculus](https://www.khanacademy.org/math/precalculus)   | Skip | College Course
 
 ### Tier X - Programming Prep Prep
 
@@ -77,11 +77,11 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |            |
-| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |            |
-| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |            |
-| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |            |
-| [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |            |
+| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            | Skip |
+| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             | Skip |
+| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            | Skip |
+| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    | Skip |
+| [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        | Skip |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
 
@@ -110,10 +110,10 @@ Deepen understanding of Web Development and begin learning Computer Science topi
 
 | Courses                                                                                                                                                                                                                                                                                                                                                        |   Status   |   Evidence   |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)                                                                                                                                                                                                                                       |            |
-| [How to Learn Math: For Students](https://lagunita.stanford.edu/courses/Education/EDUC115-S/Spring2014/about)                                                                                                                                                                                                                                                  |            |
+| [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)                                                                                                                                                                                                                                       | Skip | College Course
+| [How to Learn Math: For Students](https://lagunita.stanford.edu/courses/Education/EDUC115-S/Spring2014/about)                                                                                                                                                                                                                                                  | Skip | College Course
 | [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)                                                                                                                                                                                                                               |            |
-| [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) (more rigorous) or [Khan Academy Calculus I](https://www.khanacademy.org/math/calculus-1) and [Khan Academy Calculus II](https://www.khanacademy.org/math/calculus-2) (a more gentle introduction)                                             |            |
+| [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) (more rigorous) or [Khan Academy Calculus I](https://www.khanacademy.org/math/calculus-1) and [Khan Academy Calculus II](https://www.khanacademy.org/math/calculus-2) (a more gentle introduction)                                             | Skip | College Course
 | [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)                                                                                                                                                                                                                                                                                |            |
 | [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)                                                                                                                                                                                                                                                                                 |            |
 | [Software Testing](https://www.udacity.com/course/software-testing--cs258)                                                                                                                                                                                                                                                                                     |            |
@@ -131,7 +131,7 @@ Deepen understanding of Web Development and begin learning Computer Science topi
 | Tier Programming Project                                                                                                                                                                                                                                                                                                                                       |            |
 | Tier Programming Project                                                                                                                                                                                                                                                                                                                                       |            |
 | **Specialization**                                                                                                                                                                                                                                                                                                                                             | **Status** | **Evidence** |
-| Complete a [Specialization](#specializations) - note: you will have the opportunity to complete a specialization in each tier so don't worry overmuch about picking 'the right one'. That said, if you didn't do App Academy in Tier 0 [Web Development - Fullstack Bootcamp - App Academy Open](./specializations/app_academy_open.md) is highly recommended. |            |
+| [Web Development - Deep Dive Into Modern Web Development - Full Stack Open 2019](./specializations/full_stack_open_2019.md) |            |
 
 <br><br>
 
@@ -166,7 +166,7 @@ Dive deeper into the Computer Science topics which will prove useful throughout 
 | Tier Programming Project                                                                                                                                                                                           |            |
 | Tier Programming Project                                                                                                                                                                                           |            |
 | **Specialization**                                                                                                                                                                                                 | **Status** | **Evidence** |
-| Complete a [Specialization](#specializations) - note: you may elect to complete another round of a specialization you selected in a prior tier, or branch out and complete a different specialization              |            |
+| [Computer Science - Algorithms](./specializations/algorithms.md)             |            |
 
 ### Tier 3 - Add More Rigor
 
@@ -200,7 +200,7 @@ Dive deeper yet, exploring algorithms and different programming paradigms
 | Tier Programming Project                                                                                                                                                                                                                                   |            |
 | Tier Programming Project                                                                                                                                                                                                                                   |            |
 | **Specialization**                                                                                                                                                                                                                                         | **Status** | **Evidence** |
-| Complete a [Specialization](#specializations) - note: you may elect to complete another round of a specialization you selected in a prior tier, or branch out and complete a different specialization                                                      |            |
+| [Computer Science - Advanced Algorithms](./specializations/advanced-algorithms.md)                                                      |            |
 
 <br><br>
 
@@ -234,7 +234,7 @@ Wrap up by taking a look at some specific areas of computing to complete a bread
 | Tier Programming Project                                                                                                                                                                              |            |
 | Tier Programming Project                                                                                                                                                                              |            |
 | **Specialization**                                                                                                                                                                                    | **Status** | **Evidence** |
-| Complete a [Specialization](#specializations) - note: you may elect to complete another round of a specialization you selected in a prior tier, or branch out and complete a different specialization |            |
+| [Data Science I](./specializations/data-science-i.md) |            |
 
 ### Tier 5 - Specialize
 
@@ -242,10 +242,10 @@ Wrap up by diving more deeply into your specialization(s). If you haven't alread
 
 | **Practice**                                                                                                                                                                    | **Status** | **Evidence** |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------: |
-| Complete a [Specialization](#specializations)                                                                                                                                   |            |
-| Complete a [Specialization](#specializations)                                                                                                                                   |            |
-| Complete a [Specialization](#specializations)                                                                                                                                   |            |
-| Complete a [Specialization](#specializations)                                                                                                                                   |            |
-| Complete a [Specialization](#specializations)                                                                                                                                   |            |
+| [Data Science II](./specializations/data-science-ii.md)                                                                                                                                   |            |
+| [Web Development - Fullstack Bootcamp - The Odin Project](./specializations/the_odin_project.md)                                                                                                                                   |            |
+| [Web Development - Backend](./specializations/backend.md)                                                                                                                                   |            |
+| [Mobile App Development](./specializations/mobile.md)                                                                                                                                   |            |
+| [Web Development - Frontend](./specializations/frontend.md)                                                                                                                                  |            |
 | **Capstone**                                                                                                                                                                    | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
