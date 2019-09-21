@@ -83,7 +83,7 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 | [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    | Skip |
 | [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        | Skip |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
+| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. | Skip  |
 
 ### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
 
@@ -93,7 +93,7 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
 | Welcome To Coding                                                                                                                                                     |  Completed |     N/A      |
 | Full Stack Online - Intro to Programming                                                                                                                              | Completed | N/A|
-| Full Stack Online - Software Engineering Foundations                                                                                                                  | Completed | [https://github.com/scottsquatch/AppAcademyOpen_SoftwareEngineeringFoundations](Github) |
+| Full Stack Online - Software Engineering Foundations                                                                                                                  | Completed | [Github](https://github.com/scottsquatch/AppAcademyOpen_SoftwareEngineeringFoundations) |
 | Full Stack Online - Ruby                                                                                                                                              | In Progress  |              |
 | Full Stack Online - SQL                                                                                                                                               |            |              |
 | Full Stack Online - Rails                                                                                                                                             |            |              |
