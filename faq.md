@@ -33,7 +33,7 @@ Both tiers and specializations will require 'Tier Programming Projects', you are
 
 ## Why switch from simple checkboxes to a tabular format?
 
-While the checkboxes made for easily checking items off as you complete them, I've found that using a table where it's easier to mark both what you're working on and what you've completed, plus add links to any projects you completed or other 'evidence' type materials, gives a much more meaningful progress indication. Plus, it builds in the process of linking to anything you create along the way which will put everything right at your fingertips should you later wish to create a portfolio or highlight prior work.
+While the Checkboxes made for easily checking items off as you complete them, I've found that using a table where it's easier to mark both what you're working on and what you've completed, plus add links to any projects you completed or other 'evidence' type materials, gives a much more meaningful progress indication. Plus, it builds in the process of linking to anything you create along the way which will put everything right at your fingertips should you later wish to create a portfolio or highlight prior work.
 
 ## Do I really have to create a separate 'highlights' site for each tier?
 
